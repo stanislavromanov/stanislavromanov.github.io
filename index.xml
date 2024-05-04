@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stanislav Romanov</title>
+    <link>https://stanislavromanov.com/</link>
+    <description>Recent content on Stanislav Romanov</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://stanislavromanov.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Service Integration Consulting</title>
+      <link>https://stanislavromanov.com/ai-consulting/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://stanislavromanov.com/ai-consulting/</guid>
+      <description>AI Service Integration Consulting I offer AI Service Integration consulting, available in Berlin or world-wide remote. Together, we can design and implement AI solutions using cutting-edge tools like OpenAI API, Stable Diffusion API, and other APIs.&#xA;Boost Your Business with AI Incorporating AI into your business not only provides intelligent automation but also helps in achieving better efficiency and improving decision-making processes. Utilizing AI tools such as OpenAI, Stable Diffusion API, or Hugging Face models, we can generate outstanding results across various applications, from Natural Language Processing (NLP), image and pattern recognition, to predictive analysis.</description>
+    </item>
+    <item>
+      <title>C# Consulting</title>
+      <link>https://stanislavromanov.com/c-sharp-consulting/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://stanislavromanov.com/c-sharp-consulting/</guid>
+      <description>C# Consulting I provide expert C# consulting services, with the option for local assistance in Berlin or worldwide remote support. Together, we can design, develop, and deploy robust applications using the powerful C# programming language across a variety of platforms, from desktop applications to web services and mobile apps.&#xA;High-Performance C# Applications By leveraging the structured and type-safe nature of C#, not only can we ensure your application&amp;rsquo;s reliability and maintainability, but also achieve excellent performance and scalability.</description>
+    </item>
+    <item>
+      <title>Angular Consulting</title>
+      <link>https://stanislavromanov.com/angular-consulting/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://stanislavromanov.com/angular-consulting/</guid>
+      <description>Angular Consulting I offer front-end angular consulting in Berlin or world-wide remote. Together we can develop front-end applications using Angular as well as responsive web-driven technology based mobile applications that use frameworks like Ionic, Cordova or similar.&#xA;High performing Angular applications By implementing Angular in optimized and structured way you will not only get the &amp;ldquo;SPA Effect&amp;rdquo; in your website, but also good SEO and performance results. Likewise in using Angular as your choice for mobile application development you can benefit from having just one codebase for multiple platforms such as iOS and Android.</description>
+    </item>
+  </channel>
+</rss>
